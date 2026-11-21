@@ -7,7 +7,7 @@
 
 PLUGIN_NAME="LukaConnect"
 PKG_BASE="enigma2-plugin-extensions-lukaconnect"
-VERSION="1.0.0"
+VERSION="1.1.0"
 USERNAME="popking159"
 REPO="lukaconnect"
 
