@@ -1,1 +1,5 @@
-
+{
+    "version": "1.1.0",
+    "changelog": "- add more category \n- add instant subtitle control",
+    "script_url": "https://raw.githubusercontent.com/popking159/lukaconnect/main/myinstaller.sh"
+}
