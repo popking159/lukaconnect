@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "changelog": "- add more category \n- add instant subtitle control",
+    "version": "1.2.0",
+    "changelog": "- add more category \n- add instant subtitle control \n- add option to change background color \n- add Albanian, Croatian, Turkish, and Serbian subtitles \n- add support for ASS and SUB subtitle formats \n- add download manager",
     "script_url": "https://raw.githubusercontent.com/popking159/lukaconnect/main/myinstaller.sh"
 }
